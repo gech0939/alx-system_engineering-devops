@@ -1,4 +1,4 @@
-## 0x00. Shell, basics Day 1 at Holberton school
+## 0x00. Shell, basics Day 1 at School school
 
 [0-current_working_directory](./0-current_working_directory) - Write a script that prints the absolute path name of the current working directory.
 
@@ -18,9 +18,9 @@ And hidden files (starting with .)
 
 [6-firstdirectory](./6-firstdirectory) - Create a script that creates a directory named holberton in the /tmp/ directory.
 
-[7-movethatfile](./7-movethatfile) - Move the file betty from /tmp/ to /tmp/holberton.
+[7-movethatfile](./7-movethatfile) - Move the file betty from /tmp/ to /tmp/my_first_directory.
 
-[8-firstdelete](./8-firstdelete) - Delete the file betty. The file betty is in /tmp/holberton
+[8-firstdelete](./8-firstdelete) - Delete the file betty. The file betty is in /tmp/my_first_directory
 
 [9-firstdirdeletion](./9-firstdirdeletion) - Delete the directory holberton that is in the /tmp directory.
 
